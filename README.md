@@ -22,7 +22,9 @@ https://github.com/itsw-jfrog-demo/hello-artifactory
   https://github.com/itsw-jfrog-demo/hello-artifactory
 
 2. Artifactory起動バッチを実行します。  
-  startup.bat 
+  ```
+  startup.bat
+  ```
   ※起動するまでに1分程度かかります。
 
 ### 動作確認
