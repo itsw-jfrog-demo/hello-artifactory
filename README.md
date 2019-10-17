@@ -21,7 +21,7 @@ https://github.com/itsw-jfrog-demo/hello-artifactory
 1. 以下リポジトリをzipでダウンロードして、任意フォルダに解凍します。  
   https://github.com/itsw-jfrog-demo/hello-artifactory
 
-2. Artifactory起動バッチを実行します。
+2. Artifactory起動バッチを実行します。  
   startup.bat 
   ※起動するまでに1分程度かかります。
 
